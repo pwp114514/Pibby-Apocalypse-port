@@ -81,8 +81,7 @@ import sys.io.File;
 #end
 
 #if VIDEOS_ALLOWED
-import hxcodec.VideoHandler;
-import hxcodec.VideoSprite;
+import VideoHandler as VideoSprite;
 #end
 
 
